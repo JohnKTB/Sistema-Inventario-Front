@@ -16,6 +16,10 @@
 
 ![Home Letra](https://github.com/JohnKTB/Sistema-Inventario-Front/blob/main/images/nuevoUsuario.png)
 
+![Home Letra](https://github.com/JohnKTB/Sistema-Inventario-Front/blob/main/images/listadoVenta.png)
+
+![Home Letra](https://github.com/JohnKTB/Sistema-Inventario-Front/blob/main/images/pdf.png)
+
 ## Project setup
 ```
 npm install
