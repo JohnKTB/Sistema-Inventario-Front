@@ -168,7 +168,8 @@ export default {
         if (data == "group") arrayPerm[i] = "Roles";
         if (data == "user") arrayPerm[i] = "Usuarios";
       });
-      
+      console.log('====')
+      console.log(arrayPerm)
       this.items.forEach(({ items }) => {
         items.forEach(({ ruta }, index) => {
           //SI EL NOMBRE DE LA RUTA ESTA DENTRO DE 'arrayPerm'
